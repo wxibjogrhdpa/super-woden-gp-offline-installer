@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+10 years after the end of the Dark Elf War, Tanya of the Dark Elf was an adopted daughter living with her human mother. This gave me the power of darkness... It's an RPG where you discover yourself through various choices such as prostitution and sexual harassment.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Intel Core2 Duo or better | Intel Core i5 / Apple M1 |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | DirectX 9/OpenGL 4.1 capable GPU | Metal-capable GPU |
+| **DirectX** | Version 9.0 | Version 9.0 |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 7 / 8 / 8.1 / 10 (32bit/64bit) | Windows 7 / 8 / 8.1 / 10 (32bit/64bit) |
 
 ---
 
